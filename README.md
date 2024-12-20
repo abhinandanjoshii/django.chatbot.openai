@@ -1,3 +1,5 @@
-# django.chatbot by Abhinandan Joshi using Python an Django, must install OpenAI into your system and install python3 into your machine too.
-Also if running on VS Code, don't forget to install the Live Server Extension.
-Chatbot Project completed 
+Steps to Run
+
+: Must have installed Python , Django in your System.
+: Change the API Key with your personal key.
+: Testing on a local Environment, must install Live Server in Your System.
